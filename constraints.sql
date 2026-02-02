@@ -1,0 +1,3 @@
+-- TODO: Add CHECK constraint to ensure end_time > start_time
+-- TODO: Add trigger to auto-cancel expired bookings
+-- TODO: Restrict bookings to max 2 hours
